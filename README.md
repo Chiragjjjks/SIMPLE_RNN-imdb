@@ -13,11 +13,15 @@ Key features of the dataset:
 
 The dataset is publicly available and is commonly used for sentiment analysis tasks.
 
-##Project Overview
+## Project Overview
 The goal of this project is to build a simple RNN model to classify movie reviews from the IMDB dataset into two categories: positive and negative. The model is trained using TensorFlow and Keras, leveraging the power of recurrent layers to understand the sequence of words in the reviews.
 
-Requirements
-Python 3.x
-TensorFlow
-Numpy
-Matplotlib (for visualizations)
+## Requirements
+tensorflow==2.15.0
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
