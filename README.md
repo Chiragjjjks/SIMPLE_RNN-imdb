@@ -1,8 +1,8 @@
-#IMDB Sentiment Analysis with RNN
+# IMDB Sentiment Analysis with RNN
 
 This project uses a Recurrent Neural Network (RNN) to classify movie reviews from the IMDB dataset as positive or negative. The dataset is preprocessed and tokenized, and the model is trained to predict sentiment based on the text of the reviews.
 
-##Dataset Overview
+## Dataset Overview
 The IMDB dataset consists of 50,000 movie reviews gathered from the IMDB website. It is divided into 25,000 reviews for training and 25,000 reviews for testing, making it a balanced dataset with an equal number of positive and negative reviews.
 
 Key features of the dataset:
